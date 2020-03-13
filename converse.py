@@ -19,6 +19,6 @@ print(string[:], string_copy)
 
 first = "Kayden"
 last = "Clark"
-msg = f'{first} {last} is kool'
+msg = f'{first} {last} is Cool'
 print(msg)
 
